@@ -1,6 +1,6 @@
 # SavageAuth
 
-SavageAuth is a full-stack application that users can use
+SavageAuth is a full-stack application that users can use to post and manage messages on a messageboard.
 ## [Live Demo](https://savage-auth-m6lc.onrender.com)
 
 ## Table of Contents
